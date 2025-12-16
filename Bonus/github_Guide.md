@@ -9,7 +9,7 @@
 5. Click **Create repository**.
 
 **Screenshot:**  
-![Create Repository](images/create_repo.png)
+![Create Repository](Images/create_repo.png)
 
 ---
 

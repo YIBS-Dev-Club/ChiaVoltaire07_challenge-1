@@ -7,7 +7,7 @@
 3. Go to Adobe’s official website.
 4. Download and install the Creative Cloud desktop application.
 5. Sign In / Create Adobe Account.
-6. Launch Creative Cloud and sign in with your Adobe ID.
+6. Launch Creative Cloud and sign in .
 7. If you don’t have one, create a free account.
 8. Install Photoshop.
 9. In Creative Cloud, locate Photoshop in the “Apps” section.

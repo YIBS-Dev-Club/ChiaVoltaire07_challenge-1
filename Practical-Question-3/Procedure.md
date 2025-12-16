@@ -12,7 +12,7 @@
 8. Install Photoshop.
 9. In Creative Cloud, locate Photoshop in the “Apps” section.
 10. Click Install. The application will download and install automatically.
-11. Launch and Configure
+11. Launch and Configure.
 12. Once installed, open Photoshop from Creative Cloud or your desktop.
 13. Configure preferences like workspace layout, performance and settings .
 

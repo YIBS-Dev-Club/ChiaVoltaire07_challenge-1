@@ -21,7 +21,7 @@
 4. Click **Create branch**.
 
 **Screenshot:**  
-![Create Branch](images/create_branch.png)
+![Create Branch](Images/create_branch.png)
 
 ## 3. Clone the Branch to Your Machine
 
@@ -50,7 +50,7 @@ git clone -b <branch_name> https://github.com/USERNAME/REPO.git
 ```
 
 **Screenshot:**  
-![Clone Repo](images/clone_repo.png)
+![Clone Repo](Images/clone_repo.png)
 
 ---
 
@@ -76,7 +76,7 @@ git clone -b <branch_name> https://github.com/USERNAME/REPO.git
 - Example: update `index.html` or add a new file.
 
 **Screenshot:**  
-![Local Changes](images/local_changes.png)
+![Local Changes](Images/local_changes.png)
 
 ---
 
@@ -117,7 +117,7 @@ git clone -b <branch_name> https://github.com/USERNAME/REPO.git
 
 ---
 
-### 6. **Verify the Push**
+4. **Verify the Push**
 
 - Go to GitHub branch.
 - Or run:
@@ -129,7 +129,7 @@ git clone -b <branch_name> https://github.com/USERNAME/REPO.git
 ---
 
 **Screenshot:**  
-![Push Branch](images/push_branch.png)
+![Push Branch](Images/push_branch.png)
 
 ---
 
@@ -142,4 +142,4 @@ git pull origin <branch_name>
 ```
 
 **Screenshot:**
-![Pull Branch](images/pull_branch.png)
+![Pull Branch](Images/pull_branch.png)
